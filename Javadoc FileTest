@@ -1,0 +1,20 @@
+/**
+ * Classe responsável por gerir os produtos da pastelaria.
+ * Permite adicionar, remover e listar produtos disponíveis.
+ *
+ * @author Raul
+ * @version 1.0
+ */
+public class ProductService {
+
+    /**
+     * Adiciona um novo produto ao catálogo.
+     *
+     * @param name  Nome do produto
+     * @param price Preço do produto
+     * @return true se o produto foi adicionado com sucesso
+     */
+    public boolean addProduct(String name, double price) {
+        // implementação
+    }
+}
